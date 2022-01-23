@@ -1,0 +1,4 @@
+# AR-Virtual-Keyboard
+In this project, I used OpenCV library of Python to create a representation of a keyboard and track pad on screen and
+one can use the keyboard using camera and yellow color covered finger.
+– Successfully learned to use Color Segmentation.
